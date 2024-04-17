@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "name": "twemoji-kbot",
-  "version": "14.0.0",
+  "version": "1.0.0",
   "description": "Parser for identifying Twemoji in text",
   "main": "dist/index.js",
   "files": [
